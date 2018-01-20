@@ -9,8 +9,8 @@ og_locale:          "en_US"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
-url:                http://blog.arwsoft.id # main url
-baseurl:            blog.arwsoft.id # for gh-pages
+url:                https://heiswayi.nrird.com # main url
+baseurl:            null # for gh-pages
 enforce_ssl:        blog.arwsoft.id
 github_post_dir:    https://github.com/heiswayi/heiswayi.github.io/blob/master/
 
