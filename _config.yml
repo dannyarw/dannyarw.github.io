@@ -10,7 +10,7 @@ cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
 url:                https://dannyarw.github.io # main url
-baseurl:            null # for gh-pages
+baseurl:            blog.arwsoft.id # for gh-pages
 enforce_ssl:        blog.arwsoft.id
 github_post_dir:    https://github.com/dannyarw/dannyarw.github.io/blob/master/
 
