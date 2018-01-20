@@ -1,8 +1,8 @@
 # Basic site info
-title:              "heiswayi nrird •••"
-description:        "Life Experience, Technology & Research"
-keywords:           "heiswayi nrird, personal blog, software engineer, life experience, technology and research"
-logo_text:          "Heiswayi Nrird"
+title:              "arwsoft. blog"
+description:        "Tech blog for geeks"
+keywords:           "arwsoft, personal blog, software engineer, life experience, technology and research"
+logo_text:          "arwsoft."
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"
@@ -16,18 +16,18 @@ github_post_dir:    https://github.com/heiswayi/heiswayi.github.io/blob/master/
 
 # Site author info
 author:
-  name:             "Heiswayi Nrird"
-  email:            hnrird@gmail.com
-  github_username:  heiswayi
-  twitter_username: HeiswayiNrird
-  facebook_url:     https://www.facebook.com/heiswayi.nrird
+  name:             "arwsoft"
+  email:            danny@arwsoft.id
+  github_username:  dannyarw
+  twitter_username: dannyarw
+  facebook_url:     https://www.facebook.com/danny.ariwicaksono
 
 # Disqus comment settings
 disqus_enabled:     false
-disqus_shortname:   hnbloggithub
+disqus_shortname:   dabloggithub
 
 # GA
-google_analytics_code: UA-58296043-7
+google_analytics_code: UA-41801450-2
 
 # Build settings
 source:             ./
@@ -35,7 +35,7 @@ destination:        ./_site
 permalink:          /:year/:title
 markdown:           kramdown
 highlighter:        rouge
-timezone:           Asia/Kuala_Lumpur
+timezone:           Asia/Jakarta
 exclude:            ["README.md", "LICENSE.md", "CHANGELOG.md"]
 
 # Site configurations
