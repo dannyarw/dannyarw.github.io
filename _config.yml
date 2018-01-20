@@ -11,7 +11,7 @@ cover:              "/assets/logo.png" # site image cover
 # Site URL settings
 url:                http://blog.arwsoft.id # main url
 baseurl:            null # for gh-pages
-enforce_ssl:        heiswayi.nrird.com
+enforce_ssl:        
 github_post_dir:    https://github.com/heiswayi/heiswayi.github.io/blob/master/
 
 # Site author info
