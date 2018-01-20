@@ -10,7 +10,7 @@ cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
 url:                null # main url
-baseurl:            https://dannyarw.github.io # for gh-pages
+baseurl:            https://heiswayi.nrird.com # for gh-pages
 enforce_ssl:        blog.arwsoft.id
 github_post_dir:    https://github.com/dannyarw/dannyarw.github.io/blob/master/
 
