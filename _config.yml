@@ -2,7 +2,7 @@
 title:              "arwsoft. blog"
 description:        "Tech blog for geeks"
 keywords:           "arwsoft, personal blog, software engineer, life experience, technology and research"
-logo_text:          "arwsoft."
+logo_text:          "arwsoft"
 show_tagline:       true # edit file in /_includes/tagline.html
 show_social_icons:  true # edit file in /_includes/social_links.html
 og_locale:          "en_US"

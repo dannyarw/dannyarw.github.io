@@ -14,7 +14,7 @@
       <canvas id="canvas" style="width:100%;height:100%;max-height:230px;position:absolute;z-index:1;opacity:0.5"></canvas>
       <div class="container">
         <h2 class="masthead-title">
-            <a href="{{ site.url }}" title="{{ site.title }}" class="title">{{ site.logo_text | downcase }}</a>
+            <a href="{{ site.url }}" title="{{ site.title }}" class="title">{{ site.logo_text | downcase }}<span class="dot-red">.</span></a>
             {% if site.show_tagline %}
             <small>{% include tagline.html %}</small>
             {% endif %}
@@ -25,14 +25,12 @@
             <li><a href="/" title="Home"><i class="fa fa-home"></i></a></li>
             <li><a href="/about">About</a></li>
             <li><a href="http://dannyarw.com" target="_blank">Resume</a></li>
-            <li><a href="/projects">Projects</a></li>
             {% if page.title == "Home" %}
             <li><a href="/#Tags">Tags</a></li>
             {% else %}
             <li><a href="/tagged">Tags</a></li>
             {% endif %}
             <li><a href="/my-photography">Photography</a></li>
-            <li><a href="/reminder">Reminder</a></li>
           </ul>
         </div>
 
