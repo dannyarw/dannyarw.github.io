@@ -9,7 +9,7 @@ og_locale:          "en_US"
 cover:              "/assets/logo.png" # site image cover
 
 # Site URL settings
-url:                https://heiswayi.nrird.com # main url
+url:                https://dannyarw.github.io # main url
 baseurl:            null # for gh-pages
 enforce_ssl:        blog.arwsoft.id
 github_post_dir:    https://github.com/dannyarw/dannyarw.github.io/blob/master/
