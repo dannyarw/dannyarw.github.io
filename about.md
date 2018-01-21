@@ -5,13 +5,11 @@ description: Little information about the human behind this site.
 keywords: about page, about me
 ---
 
-![WAYI](https://i.imgur.com/mOeqk9O.jpg)
+![DNYARW](https://i.imgur.com/Dhy9DEW.jpg)
 
-Hi.
+Assalamu'alaikum warahmatullahi wabarakatuh,
 
-I am **Heiswayi Nrird**, or just call me "WAYI" for short. Currently working as _Software Engineer_ at [Keysight Technologies](https://www.keysight.com/main/home.jspx?lc=eng&cc=MY), Penang, Malaysia. In my spare time, I love to experiment, code and build some geeky stuffs. Sometimes I love to [click with my camera](https://heiswayi.github.io/my-photography/) and explore around. Some of my works can be found on following sites; [GitHub](http://heiswayi.github.io/my-repos/), [Gist](http://heiswayi.github.io/my-gists/), [CodePen](http://codepen.io/heiswayi/) and [JSFiddle](http://jsfiddle.net/user/heiswayi/). For professional details, check out [my online resume](https://heiswayi.github.io/resume/) or connect with me on [LinkedIn](https://my.linkedin.com/in/nrird), [Facebook](https://www.facebook.com/heiswayi.nrird) or [Instagram](https://instagram.com/heiswayi.nrird/). If you have any inquiry, you may contact me via email; [hnrird@gmail.com](mailto:hnrird@gmail.com).
-
-I also run [nrird·xyz](http://nrird.xyz), a personal project called creative studio that focuses on UX design, frontend app development and data visualization.
+Hi, I am **Danny Ariwicaksono** or just call me "Danny" for short. Currently working as _API Design and E2E Integration_ staff at [Telkomsel](https://www.telkomsel.com/), Indonesia. This blog is created to share my thought, my experience, or any tech related I knew. In my spare time, I love to swim, traveling, or read at mosque. Why mosque? Because mosque make me feel calm, peaceful, and secure. It's a great place to read a book. For professional details, check out [my online resume](https://www.dannyarw.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/dannyarw), [Facebook](https://www.facebook.com/danny.ariwicaksono) or [Instagram](https://instagram.com/dannyarw/). If you have any inquiry, you may contact me via email; [danny.ariwicaksono@gmail.com](mailto:danny.ariwicaskono@gmail.com).
 
 ---
 
@@ -25,4 +23,8 @@ This blog is a place I share my thoughts, opinions, reviews, ideas, personal pro
 
 #### Licensing
 
-Unless otherwise stated, all original code snippets presented on this blog is licensed under [MIT License](http://heiswayi.github.io/mit-license). All original photographs and text (my blog posts) on this website are licensed under [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/). If you have any questions about using any part of these materials for commercial purposes, please write me an email at [hnrird@gmail.com](mailto:hnrird@gmail.com).
+Unless otherwise stated, all original code snippets presented on this blog is licensed under [MIT License](http://heiswayi.github.io/mit-license). All original photographs and text (my blog posts) on this website are licensed under [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+### Credit
+
+This blog is created using Jekyll theme created by [Heiswayi Nrird](https://heiswayi.nrird.com/).
